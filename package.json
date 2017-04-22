@@ -1,0 +1,11 @@
+{
+  "name": "goodstuff",
+  "version": "1.0.0",
+  "description": "the stuff, and it's contents.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fenixmo",
+  "license": "ISC"
+}
