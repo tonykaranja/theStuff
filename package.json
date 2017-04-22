@@ -4,8 +4,19 @@
   "description": "the stuff, and it's contents.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
   "author": "fenixmo",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/fenixmo/theStuff.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fenixmo/theStuff/issues"
+  },
+  "homepage": "https://github.com/fenixmo/theStuff#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
 }
