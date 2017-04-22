@@ -16,7 +16,5 @@
     "url": "https://github.com/fenixmo/theStuff/issues"
   },
   "homepage": "https://github.com/fenixmo/theStuff#readme",
-  "dependencies": {
-    "@linclark/pkg": "^1.0.2"
-  }
+  "dependencies": {}
 }
